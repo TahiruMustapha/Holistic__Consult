@@ -2,6 +2,8 @@ import React from 'react'
 import './Footer.css'
 import logo from '../NavBar/logo/Logo.png'
 import { Link } from 'react-router-dom';
+import { FaInstagram, FaMailBulk, FaTwitter, FaWhatsapp } from 'react-icons/fa';
+
 const Footer = () => {
   return (
     <div className='footer'>
@@ -39,11 +41,23 @@ const Footer = () => {
         <p className='address-info'>P.O. BOX OS 2345, Dansoman - Accra</p>
         </div>
         <div className='suscribe-session'>
-        <h3>Suscribe</h3>
-        <p className='suscribe-text'>Suscribe to our news letter to get weekly <br /> updates about post.</p>
-        <div className='newsLetter'>
-         <input type='email' placeholder='E-mail Address'id='suscribe-mail' className='newsletter-email' required/>
-         <button id='suscribe-btn'  >Send</button>
+        <h3>Socials</h3>
+        <p className='suscribe-text'>Get in toch through our social links <br/> Tell us your problem.</p>
+        <div className="socials">
+          <p className='socials-box'>
+          <a href='https://wa.me/+233556230613' target='_blank' rel='noreferrer noopener'><FaWhatsapp className='social-links'/></a>  
+          </p>
+        <p className='socials-box'>
+        <a href='mailto:tahirumustapha13@gmail.com' target='_blank' rel='noreferrer noopener'><FaMailBulk  className='social-links'/></a> 
+        </p>
+        <p className='socials-box'>
+        <a href='https://ig.me/mustapha_tahiru' target='_blank' rel='noreferrer noopener'><FaInstagram className='social-links'/></a>  
+        </p>
+        <p className='socials-box'>
+        <a href='https://twitter.com/@tyru_mustapha' target='_blank' rel='noreferrer noopener'><FaTwitter className='social-links'/></a>  
+          
+        </p>
+        
         </div>
         
         </div>

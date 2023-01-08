@@ -144,6 +144,7 @@
         /* margin-bottom: -16rem; */
         
         }
+        
 }
 @media(max-width:650px){
     .about-info{
@@ -307,6 +308,15 @@
         margin-bottom: 10px;
         margin-top: 80px;
         font-size: 1.5rem;        
+    }
+    .speech-img{
+        height: fit-content;
+        margin-bottom: 8rem;
+    }
+    .about-info{
+       
+        height: fit-content;
+        
     }
     .gallery1{
         background: url(./about-img/img5.jpeg);
