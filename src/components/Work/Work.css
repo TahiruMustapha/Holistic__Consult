@@ -41,7 +41,7 @@
 }
 .work-details1 img{
    width: 300px;
-   height: 20.4rem;
+   height: 20rem;
 }
 i{
     color: var(--yellow-text);
@@ -61,7 +61,7 @@ i{
 }
 .work-details2 img{
    width: 300px;
-   height: 20.4rem;
+   height: 20rem;
 }
 .work-details{
     display: flex;
