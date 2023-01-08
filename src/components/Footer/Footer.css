@@ -170,15 +170,15 @@
     .newsLetter input{
      /* background-color: green; */
         padding: 30px 10px;
-        height: 25px;
+        height: 40px;
         width: 100%;
         font-size: .8rem;
     }
     #suscribe-btn{
         width: 25%;
-        left: 44%;
-        bottom:15.5%;
-        padding: 8px 5px;
+        left: 60%;
+        
+        padding: 5px 5px;
     }
 }
 @media(max-width:280px){

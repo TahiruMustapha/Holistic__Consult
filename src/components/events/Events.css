@@ -148,6 +148,15 @@ hr{
    
 }
 @media (max-width:450px){
+    .events h1{
+       
+        width: 90%;
+        font-size: 1.7rem;
+        margin-left: -25px;
+    }
+    hr{
+        margin-left: 35px;
+    }
     .eventsDetails div{
         width: 90%;
         margin-top: 20px;
