@@ -2,6 +2,7 @@
     background-color: var(--green2);
     height: fit-content;
     padding: 80px;
+   
 }
 .work-text{
     display: flex;
@@ -28,19 +29,19 @@
 }
 .work-details1 div{
     width: 250px;
-    height: 260px;
+    height: fit-content;
     background-color: #fff;
     padding: 20px;
 }
 .work-details2 div{
     width: 250px;
-    height: 260px;
+    height: fit-content;
     background-color: #fff;
     padding: 20px;
 }
 .work-details1 img{
    width: 300px;
-   height: 300px;
+   height: 20.4rem;
 }
 i{
     color: var(--yellow-text);
@@ -60,7 +61,7 @@ i{
 }
 .work-details2 img{
    width: 300px;
-   height: 300px;
+   height: 20.4rem;
 }
 .work-details{
     display: flex;
