@@ -18,7 +18,7 @@ const Aim = () => {
                      
                        <div>
                         <p className='ourVision-details-text'>
-                            We are a solution based carring and
+                            We are a solution based caring and
                              Counselling community meeting the
                               holistic needs of our cherished clients
                                and beyond.
@@ -34,9 +34,9 @@ const Aim = () => {
                    <div className='light'>
                     <FaRegArrowAltCircleRight className ='light-img'/>
                     </div>
-                       <div>
+                       <div id='ourVision-details-text-container'>
                         <p className='ourVision-details-text'>
-                           We exist to provide quality and
+                           Contextualized to provide quality and
                          contextualize care, Counselling
                           and coaching considering the holistic
                            needs
@@ -57,7 +57,7 @@ const Aim = () => {
                         <li>To increase awareness on care, counsel and coaching for the benefit of our clients and community</li>
                         <li>To provide long term care, counsel and coaching for our client and community.</li>
                         <li>To maintain and grow in our services.</li>
-                        <li>To create oppotunity for communities within our services</li>
+                        <li>To create opportunity for communities with our services</li>
                         <li>To broaden and strengthen our resources in order to promote the services we offer to our clients.</li>
                         <li>To enhance, expand  and improve our services and community programs.</li>
                        </ul>

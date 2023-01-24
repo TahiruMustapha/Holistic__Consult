@@ -11,7 +11,7 @@ const Home = ({homeBtn,onClose}) => {
     <div>
       <div  className='main-home' >
       <h1>Therapy for <br/> Depression</h1>
-      <p>We develop & understand your <br/> thoughts patterns</p>
+      <p>We develop & understand your <br/> thought patterns</p>
       <button id='home-btn' className='home-btn' onClick={homeBtn} >Book An Appointment</button>
 
     </div>

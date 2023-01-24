@@ -179,12 +179,13 @@ i{
    .work-details1{
     display: flex;
     flex-direction: column;
-    margin-right: 20px;
+    margin-left: -81px;
+   
    }
    .work-details2{
     display: flex;
     flex-direction: column;
-    margin-right: 20px;
+    margin-left: -81px;
    }
    .work-details1 div{
    width: 250px;
@@ -197,9 +198,11 @@ i{
     
    }
    .work-details1 img{
-    width: 270px;
+    width: 250px;
+    object-fit: cover;
    }
    .work-details2 img{
-    width: 270px;
+    width: 250px;
+    object-fit: cover;
    }
 }

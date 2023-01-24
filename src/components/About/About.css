@@ -246,6 +246,9 @@
         /* background-color: red; */
         
     }
+    .about-details{
+     background-color: red;
+    }
     .about-details p{
         font-size: 1rem;
         line-height: 30px;

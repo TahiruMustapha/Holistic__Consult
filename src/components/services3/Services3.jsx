@@ -38,7 +38,7 @@ const Services3 = () => {
                 <p>Devorce Counselling.</p>
                 <p>Crises Counselling.</p>
                 <p>Depression Counselling.</p>
-                <p>Sexual Disfunction Counselling.</p>
+                <p>Divorce and Sexual Dysfunction Counselling.</p>
            </div> 
                </div>
            </div>
@@ -81,9 +81,9 @@ const Services3 = () => {
                                 <p>Leadership Training.</p>
                                 <p>Prepare Enrich Facilitator.</p>
                                 <p>Continuing Professional.</p>
-                                <p>Development CPD Courses.</p>
+                                <p>Developmental CPD Courses.</p>
                                 <p>One Year Certificate in marriage and Counselling.</p>
-                                <p>Two Year Deploma in Marriage And Family Counsellig</p>
+                                <p>Two Year Deploma in Marriage And Family Counselling</p>
                     </div>
                     </div>
             </div>

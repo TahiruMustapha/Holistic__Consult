@@ -18,8 +18,8 @@ const About = ({aboutBtn}) => {
            <div className='about-details'>
             <h3>About As</h3>
             <p>
-              Holistic Counselling an Training consult Ltd
-              as a limited liability company is established to train and develop 
+              Holistic Counselling and training consult Ltd
+              as a limited liability company established to train and develop 
   skills and relevant knowledge in the practice of care,
   Counselling, and Coaching in church and beyond.
   It’s personnel and vast skill development courses 

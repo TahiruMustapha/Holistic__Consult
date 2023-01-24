@@ -149,7 +149,8 @@
         margin-top: 20px;
        }
        .recovery-info img{
-        width: 108%;
+        width: 100%;
+        object-fit: cover;
         height: 37%;
     }       
 }

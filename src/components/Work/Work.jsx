@@ -25,7 +25,7 @@ const Work = () => {
             <div className='work-details2'>
             <div>
                     <i>Step 2</i>
-                    <h3>Let's Find Best <br/>Slolution For You</h3>
+                    <h3>Let's Find Best <br/>Solution For You</h3>
                     <p>Lorem ipsum dolor, sit amet consectetur
                      adipisicing elit. Quod, fugit! Delectus magnam 
                      architecto atque esse omnis maiores ad debitis mollitia.</p>

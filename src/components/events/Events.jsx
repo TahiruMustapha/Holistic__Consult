@@ -9,7 +9,7 @@ const Events = () => {
             <div>
                <p className='day'>SUNDAY</p>
                <p className='date'>JAN  <span>1st</span></p>
-               <p className='modules-text'>Apply to lay practictioner certificate in pastorial counselling today!</p>
+               <p className='modules-text'>Apply to lay practitioner certificate in pastoral counselling today!</p>
                <p className='modules'>4 modules in 6months.</p>
                <button className='events-btn'><Link to='/apply'>Apply</Link></button>
             </div>

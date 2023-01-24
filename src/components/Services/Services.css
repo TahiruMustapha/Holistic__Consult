@@ -48,6 +48,11 @@
     color: #444;
 }
 @media(max-width:1150px){
+    .services{
+     
+      
+    }
+    
 .services-details{
     /* background-color: red; */
     width: 100%;

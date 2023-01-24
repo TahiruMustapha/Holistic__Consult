@@ -11,7 +11,7 @@ const topNav = () => {
       <ul>
         <li>
             <FaPhone className='nav-icons'/>
-            <p> 0244598994 / 02435314113</p>
+            <p> 0244598994 / 0243531411</p>
         </li>
         <li>
             <FaGlobe className='nav-icons'/>
@@ -19,7 +19,7 @@ const topNav = () => {
         </li>
         <li>
             <FaClock className='nav-icons'/>
-            <p>We Are Open:Mn - Fr: 10pm - 8mp</p>
+            <p>We Are Open:Mn - Fr: 10am - 8pm</p>
         </li>
       </ul>
     </div>
