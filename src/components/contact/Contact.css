@@ -215,6 +215,12 @@ button:hover{
     }
 }
 @media(max-width:650px){
+    .contact-bg{
+        height: 150vh;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
     .contact-form-info{
         width: 100%;
     }

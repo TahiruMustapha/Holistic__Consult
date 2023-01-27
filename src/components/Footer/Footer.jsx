@@ -42,7 +42,7 @@ const Footer = () => {
         </div>
         <div className='suscribe-session'>
         <h3>Socials</h3>
-        <p className='suscribe-text'>Get in toch through our social links <br/> Tell us your problem.</p>
+        <p className='suscribe-text'>Get in touch through our social links <br/> Tell us your problem.</p>
         <div className="socials">
           <p className='socials-box'>
           <a href='https://wa.me/+233556230613' target='_blank' rel='noreferrer noopener'><FaWhatsapp className='social-links'/></a>  

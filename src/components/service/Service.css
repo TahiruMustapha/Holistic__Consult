@@ -177,7 +177,13 @@
     }
 }
 @media(max-width:650px){
+    .service-bg{
+        height: 180vh;
+        display: flex;
+        align-items: center;
+        justify-content: center;
     
+    }
     .counselling{
        
         display: flex;
