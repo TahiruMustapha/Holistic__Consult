@@ -15,9 +15,10 @@ const Work = () => {
                 <div>
                     <i>Step 1</i>
                     <h3>Schedule An <br/> Appointment</h3>
-                    <p>Lorem ipsum dolor, sit amet consectetur
-                     adipisicing elit. Quod, fugit! Delectus magnam 
-                     architecto atque esse omnis maiores ad debitis mollitia.</p>
+                    <p>Call the provider number to make further enquires
+                        of your choice and book an appointment to fit your 
+                        schedule.    
+                    </p>
                 </div>
                 <img src={paperWork} alt='paper work'/>
 
@@ -26,9 +27,10 @@ const Work = () => {
             <div>
                     <i>Step 2</i>
                     <h3>Let's Find Best <br/>Solution For You</h3>
-                    <p>Lorem ipsum dolor, sit amet consectetur
-                     adipisicing elit. Quod, fugit! Delectus magnam 
-                     architecto atque esse omnis maiores ad debitis mollitia.</p>
+                    <p>Register and the filling of intake assesment.
+                        You can now schedule your meeting with 
+                        professional counsellor.
+                    .</p>
                 </div>
                 <img src={discussingWork} alt='paper work'/>
             </div>

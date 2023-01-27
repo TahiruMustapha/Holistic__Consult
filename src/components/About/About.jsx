@@ -13,10 +13,12 @@ import Meeting from '../Meeting/Meeting'
 const About = ({aboutBtn}) => {
   return (
     <div className='about'>
-       <div className='about-bg'></div>
+       <div className='about-bg'>
+        <h3>   About Us</h3>
+     <p>Know more about holistic</p>
+       </div>
        <div className='about-info'>
            <div className='about-details'>
-            <h3>About As</h3>
             <p>
               Holistic Counselling and training consult Ltd
               as a limited liability company established to train and develop 
@@ -64,9 +66,18 @@ const About = ({aboutBtn}) => {
         <p>Gallery</p>
              <div className='gallery1'></div>
              <div className='gallery2'>
-             <img src={img6} alt='banner'/>
-             <img src={img7} alt='banner'/>
-             <img src={img8} alt='banner'/>
+              <div>
+              <img src={img6} alt='banner'/>
+              </div>
+              <div>
+              <img src={img7} alt='banner'/>
+              </div>
+              <div>
+              <img src={img8} alt='banner'/>
+              </div>
+             
+             {/* <img src={img7} alt='banner'/>
+             <img src={img8} alt='banner'/> */}
              </div>
              <div  className='gallery3'>
              <img src={img9} alt='banner'/>

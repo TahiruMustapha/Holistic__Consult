@@ -47,10 +47,13 @@ const Services3 = () => {
                     <div className='first-service'>
                                     <i>Coaching Services</i>
                                     <h3>About Coaching</h3> 
-                                    <p>Our Counselling service make a profund impact on the lives of individuals,families and communities.
-                                    We also helps people navigate dificult life situation, such as death of love ones,divorce, natural disaster
-                                    ,school stress and loss of job.We provides the tools and insights to manage mental healht issues such as anxiety 
-                                    and depression.Ultimately our counselling empowers people to live healhty and fulfilling life.
+                                    <p>Our Coaching focuses directly on identifying what 
+                                        you wish to achieve in the present and future. 
+                                        We help you identify manageable goals and set 
+                                        tasks you can undertake to achieve your goals. 
+                                        We tend to use a combination of enquiry, diagrams 
+                                        and exercises, to help you understand problem areas 
+                                        and identify ways to overcome them.
                                     </p>
                         </div>
 
@@ -69,10 +72,13 @@ const Services3 = () => {
                     <div className='first-service'>
                                <i>Training Services</i>
                                 <h3>About Training</h3> 
-                                <p>Our Counselling service make a profund impact on the lives of individuals,families and communities.
-                                We also helps people navigate dificult life situation, such as death of love ones,divorce, natural disaster
-                                ,school stress and loss of job.We provides the tools and insights to manage mental healht issues such as anxiety 
-                                and depression.Ultimately our counselling empowers people to live healhty and fulfilling life.
+                                <p>We educate trainee about any development policy changes. 
+                                        Trainee who receive extensive training, prepares them 
+                                        for a higher leadership satisfaction. This training 
+                                        programs can help you determine the most beneficial 
+                                        option for your families, organization communities, 
+                                        and, situation. In this article, we discuss the benefits 
+                                        of effective training programs.
                                 </p>        
                     </div>
 

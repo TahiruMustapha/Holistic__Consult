@@ -1,6 +1,7 @@
 .heroNav{
-    /* position: fixed; */
-    width: 100%;
+    position: fixed;
+    width: 100vw;
+    z-index: 1;
 }
 .mainNav{
     background-color: var(--green1);

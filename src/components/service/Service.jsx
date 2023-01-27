@@ -9,7 +9,7 @@ const Service = ({ServiceBtn}) => {
     <div className='service'>
        <div className='service-bg'>
         <h3>Services</h3>
-        <p>Enjoy Where You Are Now</p>
+        <p>Enjoy where you are now</p>
        </div>
        <Services3/>
        <Recovery />

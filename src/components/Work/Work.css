@@ -35,13 +35,14 @@
 }
 .work-details2 div{
     width: 250px;
-    height: fit-content;
+    height: 100%;
     background-color: #fff;
     padding: 20px;
 }
 .work-details1 img{
    width: 300px;
-   height: 19.5rem;
+   height: 18.8rem;
+   object-fit: cover;
 }
 i{
     color: var(--yellow-text);
@@ -61,7 +62,8 @@ i{
 }
 .work-details2 img{
    width: 300px;
-   height: 19.5rem;
+   height: 18.8rem;
+   object-fit: cover;
 }
 .work-details{
     display: flex;
@@ -163,7 +165,7 @@ i{
     }
        .work-details2{
         margin-right: 20px;
-        /* margin-top: 20px; */
+      
         display: flex; 
         flex-direction: column;
        }

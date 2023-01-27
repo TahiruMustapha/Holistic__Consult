@@ -41,7 +41,7 @@
 }
 .recovery-details{
     background-color: #fff;
-    height: 94%;
+    height: 100%;
     padding: 10px;
 }
 .recovery-details h3{
@@ -54,6 +54,7 @@
 .recovery-info img{
     width: 300px;
     height: 99.7%;
+    object-fit: cover;
 }
 @media(max-width:1150px){
     .recovery-info{

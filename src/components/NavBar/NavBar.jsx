@@ -15,7 +15,7 @@ const NavBar = ({second}) => {
 }
   return (
     <div className='heroNav'>
-      <TopNav/>
+      <TopNav />
       <div className='mainNav'>
       <div className='logo'>
         <img src={logo} alt = 'logo' />
