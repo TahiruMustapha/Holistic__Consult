@@ -91,6 +91,7 @@
 .different img{
     width: 500px;
     border-radius: 5px;
+    margin-top: 20px;
 }
 .ui-ux{
     background-color: var(--green1);
@@ -189,6 +190,8 @@
             display: flex;
             align-items: center;
             flex-direction: column;
+            /* background-color: rebeccapurple; */
+            height: fit-content;
             
         }
         .about-info{
@@ -210,6 +213,7 @@
             width: 100%;
             margin-top: 3rem;
             text-align: center;
+            background-color: red;
         }
         .speech-img img{
            width: 90%;
@@ -222,12 +226,15 @@
             align-items: center;
             flex-direction: column;
             width: 100%;
+            margin-top: 0px;
+            height: fit-content;
         }
         .different img{
             width: 90%;
            margin-left: auto;
            margin-right: auto;
            height: fit-content;
+           
         }
         .different-details{
            
