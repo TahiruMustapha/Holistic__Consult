@@ -213,7 +213,7 @@
             width: 100%;
             margin-top: 3rem;
             text-align: center;
-            background-color: red;
+            /* background-color: red; */
             height: fit-content;
         }
         .speech-img img{
