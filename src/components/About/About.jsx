@@ -4,6 +4,7 @@ import img1 from './about-img/img1.jpeg'
 import img2 from './about-img/img2.jpeg'
 import img3 from './about-img/img3.jpeg'
 import img4 from './about-img/img4.jpeg'
+import img5 from './about-img/img5.jpeg'
 import img6 from './about-img/img6.jpeg'
 import img7 from './about-img/img7.jpeg'
 import img8 from './about-img/img8.jpeg'
@@ -67,7 +68,9 @@ const About = ({aboutBtn}) => {
        </div>
        <div className='gallery'>
         <p>Gallery</p>
-             <div className='gallery1'></div>
+             <div className='gallery1'>
+             <img src={img5} alt='banner'/>
+             </div>
              <div className='gallery2'>
               <div>
               <img src={img6} alt='banner'/>
