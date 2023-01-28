@@ -17,6 +17,7 @@ const About = ({aboutBtn}) => {
         <h3>   About Us</h3>
      <p>Know more about holistic</p>
        </div>
+       <div className="about-text-info">
        <div className='about-info'>
            <div className='about-details'>
             <p>
@@ -58,6 +59,8 @@ const About = ({aboutBtn}) => {
               individuals with rich experiences in related fields of study.</p>
            </div>
        </div>
+       </div>
+     
        <div className='ui-ux'>
             <img src={img3} alt='banner'/>
             <img src={img4} alt='banner'/>

@@ -11,7 +11,7 @@ const topNav = () => {
       <ul>
         <li>
             <FaPhone className='nav-icons'/>
-            <p> 0244598994 / 0243531411</p>
+            <p> 0244598994 / 0243531413</p>
         </li>
         <li>
             <FaGlobe className='nav-icons'/>
