@@ -4,7 +4,7 @@
     background:linear-gradient(#08394e96,#08394e3f), url(./contact-img/contact.jpg);
     background-position: center;
     background-size: cover;
-    height: 110vh;
+    height: 130vh;
     width: 100%;
     display: flex;
     flex-direction: column;

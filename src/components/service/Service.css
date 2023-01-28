@@ -2,7 +2,7 @@
     height: 100vh;
 } */
 .service-bg{
-    height: 110vh;
+    height: 130vh;
     background:linear-gradient(#08394e96,#08394e3f), url(./service-img/img2.jpeg);
     background-position: center;
     background-size: cover;
