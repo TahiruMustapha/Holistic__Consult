@@ -1,5 +1,5 @@
 .about-bg{
-    height: 170vh;
+    height: 175vh;
     width: 100%;
     background:linear-gradient(#08394e96,#08394e3f), url(./about-img/group.jpeg);
     background-position: center;
@@ -172,17 +172,39 @@
     margin-top: 10px;
 }
 @media(max-width:1024px){
-
-    /* .gallery1{
-        background: url(./about-img/img5.jpeg);
-        background-repeat: no-repeat;
-        background-position: 0px 0px;
-        background-size: calc(100vw) calc(100vh);
-        margin-bottom: -16rem;
+    .about-text-info{
+        /* background-color: red; */
+        height: fit-content;
         
-        }        */
+        width: 100%;
+    }
+    .speech-img{
+        margin-top: 20px;
+        
+    
+    }
+    .speech-img img{
+        height: 80%;
+    }
+    .about-info{
+        /* background-color: rebeccapurple; */
+        height: fit-content;
+    }
+    .different{
+        /* background-color: rebeccapurple; */
+        height: fit-content;
+        padding-top: 10px;
+    }
+    .different-details{
+         /* background-color: rebeccapurple; */
+         height: fit-content;
+    }
+    /* .ui-ux{
+        padding-top: 20px;
+    } */
+       
 }
-@media(max-width:450px){
+@media(max-width:650px){
         .about-bg{
             height: 120vh;
         }
