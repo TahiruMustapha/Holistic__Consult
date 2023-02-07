@@ -19,7 +19,7 @@ const Aim = () => {
                        <div>
                         <p className='ourVision-details-text'>
                             We are a solution based caring and
-                             Counselling community meeting the
+                             counselling community meeting the
                               holistic needs of our cherished clients
                                and beyond.
                         </p>
@@ -37,7 +37,7 @@ const Aim = () => {
                        <div id='ourVision-details-text-container'>
                         <p className='ourVision-details-text'>
                            Contextualized to provide quality and
-                         contextualize care, Counselling
+                         contextualize care, counselling
                           and coaching considering the holistic
                            needs
                         </p>

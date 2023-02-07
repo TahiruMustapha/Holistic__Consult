@@ -21,19 +21,15 @@ const About = ({aboutBtn}) => {
        <div className="about-text-info">
        <div className='about-info'>
            <div className='about-details'>
+            <h3>About Us</h3>
             <p>
-              Holistic Counselling and training consult Ltd
-              as a limited liability company established to train and develop 
-  skills and relevant knowledge in the practice of care,
-  Counselling, and Coaching in church and beyond.
-  It’s personnel and vast skill development courses 
-  are accredited by the Ghana Psychology Council. 
-  The Consult is accredited to run Counselling services,
-  Continues Professional development courses, Lay Practitioner
-    Certificate courses as well as a center for internship.
-    Each year we receive students from the major public
-      and private Universities in Ghana to do internships.
-      We have had a student from Liberty University in USA undergoing internship in the Consult.
+            Holistic Counselling“and” Training Consult Ltd is a
+             limited liability company that specializes in training
+              and developing relevant skills and knowledge in the
+             practice of Care, Coaching and Counselling in the 
+             church and beyond. It’s personnel and vast kill 
+             development courses are accredited by the Ghana 
+             Psychology Council 
             </p>
            </div>
            <div className='speech-img'>

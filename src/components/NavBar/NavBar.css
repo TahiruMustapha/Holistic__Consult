@@ -4,8 +4,10 @@
     z-index: 1;
 }
 .mainNav{
-    background-color: var(--green1);
+    background:var(--green1);
     display: flex;
+    background-position: center;
+    background-size: cover;
     align-items: center;
     height: 100px;
     width: 100%;

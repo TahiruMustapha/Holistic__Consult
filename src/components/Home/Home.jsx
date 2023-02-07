@@ -1,8 +1,9 @@
 
 import Aim from '../Aim/Aim'
 import Events from '../events/Events'
+import Recovery from '../recovery/Recovery'
 import Services from '../Services/Services'
-import Work from '../Work/Work'
+//import Work from '../Work/Work'
 import './Home.css'
 
 const Home = ({homeBtn,onClose}) => {
@@ -17,7 +18,8 @@ const Home = ({homeBtn,onClose}) => {
     </div>
     <Aim/>
     <Services/>
-    <Work/>
+    <Recovery/>
+    {/* <Work/> */}
     <Events/>
     </div>
     

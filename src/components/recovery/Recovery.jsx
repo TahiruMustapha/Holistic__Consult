@@ -11,8 +11,8 @@ const Recovery = () => {
       <div  className='recovery-info'>
         <div className='recovery-details'>
             <i>Step 1</i>
-            <h3 >Schedule An <br/> Appointment</h3>
-            <p>Call the provider number to make further enquires
+            <h3 >Book an  Appointment</h3>
+            <p>Call the providered number to make further enquires
                of your choice and book an appointment to fit your 
                schedule.    
             </p>
@@ -23,9 +23,10 @@ const Recovery = () => {
         <div className='recovery-details'>
             <i>Step 2</i>
             <h3 >Let's Find Best <br/>Slolution For You</h3>
-            <p>Register and the filling of intake assesment.
-                You can now schedule your meeting with 
-                professional counsellor.
+            <p>Register to complete the booking process and
+               fill and intake assessment form. You can now
+                schedule your meeting with a professional 
+                counsellor.
             </p>
         </div>
           <img src={discussingWork} alt="paperwork" />
