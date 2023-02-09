@@ -14,7 +14,7 @@ const Appointment = ({open,onClose}) => {
   
   console.log('submitted');
   const formData = new FormData(formEl);
-  fetch('https://script.google.com/macros/s/AKfycby4ObOG-ETc60RyFs65efapheQUybljZ84sXJhgqj1q-80g9FPYRe7SwiOOLfe3P9W6/exec',{
+  fetch('https://script.google.com/macros/s/AKfycbxsqXUED6D8p9lho71hRegpPRljJfvBnKwgPnJqMW-WLlIaostdR5KzFQlOQlhWG81QAg/exec',{
     method:'POST',
     body:formData,
     
