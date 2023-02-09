@@ -13,9 +13,9 @@ const handleSubmit = (e) =>{
 e.preventDefault();
  console.log('submitted');
  const formData = new FormData(formEl);
- fetch('https://script.google.com/macros/s/AKfycbxKNtduX8l3j_FQDZz8V3oJSZgIZrTCVLpAjUsbTofd9TEk_9ItZfarlRUs7ec_4b6UtA/exec',{
+ fetch('https://script.google.com/macros/s/AKfycbxuh9k_JVx0FKHqwsMaFWyX6CyqN_e3x2Hw7WBM24Sog_IW05hXYti8OL_AtUNVtMGT9g/exec',{
     method:'POST',
-    body:formData
+    body:formData,
  })
  setName('');
  setEmail('');

@@ -8,8 +8,8 @@ const Contact = () => {
     const sendEmail = (e) => {
         e.preventDefault();
     
-        emailjs.sendForm('service_uztep67',
-        'template_yltfobc', form.current, 'VTaW2ttihd_SfANEf')
+        emailjs.sendForm('service_xs2dyyd',
+        'template_rksc7wb', form.current, 'C1ZoztStdP5Jl62RH')
           .then((result) => {
               alert('Message send succesfully');
           }, (error) => {
