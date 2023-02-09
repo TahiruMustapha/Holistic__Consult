@@ -2,7 +2,7 @@ import React from 'react'
 import './Footer.css'
 import logo from '../NavBar/logo/Logo.png'
 import { Link } from 'react-router-dom';
-import { FaInstagram, FaMailBulk, FaTwitter, FaWhatsapp } from 'react-icons/fa';
+import { FaFacebook, FaInstagram, FaMailBulk, FaTiktok, FaTwitter, FaWhatsapp } from 'react-icons/fa';
 
 const Footer = () => {
   return (
@@ -45,16 +45,24 @@ const Footer = () => {
         <p className='suscribe-text'>Get in touch through our social links <br/> Tell us your problem.</p>
         <div className="socials">
           <p className='socials-box'>
-          <a href='https://wa.me/+233556230613' target='_blank' rel='noreferrer noopener'><FaWhatsapp className='social-links'/></a>  
+          <a href='https://wa.me/+233244598994' target='_blank' rel='noreferrer noopener'><FaWhatsapp className='social-links'/></a>  
           </p>
         <p className='socials-box'>
-        <a href='mailto:tahirumustapha13@gmail.com' target='_blank' rel='noreferrer noopener'><FaMailBulk  className='social-links'/></a> 
+        <a href='mailto:holisticcounsellingconsult@gmail.com' target='_blank' rel='noreferrer noopener'><FaMailBulk  className='social-links'/></a> 
         </p>
         <p className='socials-box'>
-        <a href='https://ig.me/mustapha_tahiru' target='_blank' rel='noreferrer noopener'><FaInstagram className='social-links'/></a>  
+        <a href='https://www.instagram.com/holistic_consultofficial/' target='_blank' rel='noreferrer noopener'><FaInstagram className='social-links'/></a>  
         </p>
         <p className='socials-box'>
-        <a href='https://twitter.com/@tyru_mustapha' target='_blank' rel='noreferrer noopener'><FaTwitter className='social-links'/></a>  
+        <a href='https://twitter.com/HolisticConsult' target='_blank' rel='noreferrer noopener'><FaTwitter className='social-links'/></a>  
+          
+        </p>
+        <p className='socials-box'>
+        <a href='https://www.tiktok.com/@holisticconsult' target='_blank' rel='noreferrer noopener'><FaTiktok className='social-links'/></a>  
+          
+        </p>
+        <p className='socials-box'>
+        <a href='https://web.facebook.com/holisticconsult' target='_blank' rel='noreferrer noopener'><FaFacebook className='social-links'/></a>  
           
         </p>
         
