@@ -41,14 +41,17 @@
 .day{
     background-color: var(--green2);
     color: #fff;
-    width: 120px;
+    width: 300px;
     margin-left: auto;
     margin-right: auto;
     padding: 10px;
-    font-size: 1.2rem;
+    font-size: 1rem;
     font-weight: 500;
     letter-spacing: 5px;
     margin-top: 30px;
+}
+.day-time{
+    margin-top: 10px;
 }
 .date{
     font-size: 1rem;
@@ -91,7 +94,7 @@
 .events-btn a{
     color: black;
     text-decoration: none;
-    
+
     
 }
 hr{
@@ -184,6 +187,7 @@ hr{
     .day{
         font-size: 1rem;
         padding: 10px 10px;
+      
     }
     .date span{
         font-size: 1rem;
