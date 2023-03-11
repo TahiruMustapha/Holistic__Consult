@@ -7,15 +7,21 @@
     padding: 0;
     box-sizing: border-box;
     
+    
 }
 body{
     font-family: 'Barlow', sans-serif;
     /* font-family: 'Fraunces', serif */
-    overflow-x: hidden;
+    
 }
 form input{
     font-size: 1.2rem;
 }
 form textarea{
     font-size: 1.2rem;
+}
+@media(max-width:650px){
+   *{
+    overflow-x: hidden;
+   }
 }
