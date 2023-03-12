@@ -205,7 +205,10 @@
        
 }
 @media(max-width:650px){
-        .about-bg{
+    .about{
+        overflow-x: hidden;
+    }    
+    .about-bg{
             height: 120vh;
          
         }
