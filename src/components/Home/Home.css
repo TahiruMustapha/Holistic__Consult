@@ -1,3 +1,4 @@
+
 .main-home{
     background-image: url(../Home/Home-img/counselor.jpg);
     height: 150vh;
@@ -65,7 +66,9 @@
     }
 }
 @media(max-width:650px){
-   
+     .main-home-content{
+        overflow-x: hidden;
+     }
     #home-btn{
         font-size: 1rem;
         font-weight: 300;

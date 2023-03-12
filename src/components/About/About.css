@@ -207,6 +207,7 @@
 @media(max-width:650px){
         .about-bg{
             height: 120vh;
+         
         }
         .about-text-info{
             display: flex;
