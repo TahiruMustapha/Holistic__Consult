@@ -18,10 +18,9 @@ const Aim = () => {
                      
                        <div>
                         <p className='ourVision-details-text'>
-                            We are a solution based caring and
-                             counselling community meeting the
-                              holistic needs of our cherished clients
-                               and beyond.
+                        We are a solution-based caring and counseling community
+                         meeting the Holistic needs of our cherished clients
+                          and beyond.
                         </p>
                        </div>
                    </div>
@@ -36,10 +35,8 @@ const Aim = () => {
                     </div>
                        <div id='ourVision-details-text-container'>
                         <p className='ourVision-details-text'>
-                           Contextualized to provide quality and
-                         contextualize care, counselling
-                          and coaching considering the holistic
-                           needs
+                        Contextualized to provide quality and contextualize care, 
+                        counseling, and coaching considering the Holistic needs.
                         </p>
                        </div>
                    </div>
@@ -54,12 +51,12 @@ const Aim = () => {
             </div>
                     
                        <ul>
-                        <li>To increase awareness on care, counsel and coaching for the benefit of our clients and community</li>
-                        <li>To provide long term care, counsel and coaching for our client and community.</li>
-                        <li>To maintain and grow in our services.</li>
-                        <li>To create opportunity for communities with our services</li>
-                        <li>To broaden and strengthen our resources in order to promote the services we offer to our clients.</li>
-                        <li>To enhance, expand  and improve our services and community programs.</li>
+                        <li>To increase awareness of care, counsel, and coaching for the benefit of our clients and community.</li>
+                        <li>To provide long-term care, counsel, and coaching for our clients and community.</li>
+                        <li>To maintain and grow our services.</li>
+                        <li>To create opportunities for communities with our services.</li>
+                        <li>To broaden and strengthen our resources to promote the services we offer to our clients.</li>
+                        <li>To enhance, expand and improve our services and community programs.</li>
                        </ul>
                     
             </div>

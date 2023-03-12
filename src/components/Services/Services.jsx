@@ -10,10 +10,10 @@ const Services = () => {
           <p>Premarital Counselling and Education.</p>
           <p>Post-Wedding Counselling.</p>
           <p>Marriage Counselling.</p>
-          <p>Devorce Counselling.</p>
-          <p>Crises Counselling.</p>
+          <p>Divorce Counselling.</p>
+          <p>Crisis Counselling.</p>
           <p>Depression Counselling.</p>
-          <p>Sexual Disfunction Counselling.</p>
+          <p>Sexual Dysfunction Counselling.</p>
            </div>
            <div>
            <h2>Coaching Services</h2>
@@ -26,11 +26,11 @@ const Services = () => {
            <div>
            <h2>Training Services</h2>
           <p>Leadership Training.</p>
-          <p>Prepare Enrich Facilitator.</p>
+          <p>Prepare-Enrich Facilitator.</p>
           <p>Continuing Professional.</p>
           <p>Development CPD Courses.</p>
-          <p>One Year Certificate in marriage and Counselling.</p>
-          <p>Two Year Deploma in Marriage And Family Counsellig</p>
+          <p>Year Certificate in marriage and Counselling.</p>
+          <p>Two-Year Diploma in Marriage And Family Counseling.</p>
            </div>
         </div>
     </div>

@@ -19,13 +19,13 @@ const NavBar = ({second}) => {
       <div className='mainNav'>
       <div className='logo'>
         <img src={logo} alt = 'logo' />
-        <p className='NavText'>Holistic</p>
+        <p className='NavText'>Holistic Counseling Consult</p>
       </div>
       <div className='navBar-details'>
         <ul>
             <li className={navToggle === 1 ? 'link active-link' : 'link'}  onClick={()=>toggleLink(1)}><Link to='/'>Home</Link></li>
             <li className={navToggle === 2 ? 'link active-link' : 'link'} onClick={()=>toggleLink(2)}><Link to='/about'>About</Link></li>
-            <li className={navToggle === 3 ? 'link active-link' : 'link'} onClick={()=>toggleLink(3)}><Link to='/service'>Service</Link></li>
+            <li className={navToggle === 3 ? 'link active-link' : 'link'} onClick={()=>toggleLink(3)}><Link to='/service'>Services</Link></li>
             <li className={navToggle === 4 ? 'link active-link' : 'link'} onClick={()=>toggleLink(4)}><Link to='/contact'>Contact</Link></li>
             <button className='btn' onClick={()=> second(true)} >Book An Appointment</button>
            
@@ -40,7 +40,7 @@ const NavBar = ({second}) => {
              <ul className='small-screens-links'>
                  <li onClick={()=>setOverlay(false)} ><Link to='/'>Home</Link></li>
                  <li onClick={()=>setOverlay(false)} ><Link to='/about'>About</Link></li>
-                 <li onClick={()=>setOverlay(false)} ><Link to='/service'>Service</Link></li>
+                 <li onClick={()=>setOverlay(false)} ><Link to='/service'>Services</Link></li>
                  <li onClick={()=>setOverlay(false)} ><Link to='/contact'>Contact</Link></li>
                  <button className='btn' id='overlay-btn' onClick={()=> second(true)} >Book An Appointment</button>
              </ul>

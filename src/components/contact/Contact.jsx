@@ -49,7 +49,7 @@ const Contact = () => {
                                     </div>
                                     <div>
                                         <p>0244598994</p>
-                                        <p>02435314113</p>
+                                        <p>0243531413</p>
                                     </div>
                                 </div>
                                    
@@ -63,7 +63,7 @@ const Contact = () => {
                                     </div>
                                     <div>
                                         <p>We are open: </p>
-                                        <p>Mon - Fr: 10am - 8pm</p>
+                                        <p>Mon - Sat: 9am - 8pm, <br /> Sunday 3am - 9pm</p>
                                     </div>
                                 </div>
                                     

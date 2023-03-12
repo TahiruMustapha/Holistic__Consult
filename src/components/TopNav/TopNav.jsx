@@ -19,7 +19,7 @@ const topNav = () => {
         </li>
         <li>
             <FaClock className='nav-icons'/>
-            <p>We Are Open:Monday - Friday: 10am - 8pm</p>
+            <p>We Are Open: Monday - Saturday: 9am - 8pm, Sunday 3am - 9pm</p>
         </li>
       </ul>
     </div>
