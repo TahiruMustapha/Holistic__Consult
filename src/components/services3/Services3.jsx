@@ -43,7 +43,7 @@ const Services3 = () => {
               navigate difficult life situations, such as the death of loved
               ones, divorce, natural disasters, school stress, and loss of job.
               We provide the tools and insights to manage mental health issues
-              such as anxiety and depression. Ultimately our counseling empowers
+              such as anxiety and depression. Ultimately our counselling empowers
               people to live a healthy and fulfilling life.
             </p>
           </div>
@@ -52,8 +52,8 @@ const Services3 = () => {
             <p>Premarital Counselling and Education.</p>
             <p>Post-Wedding Counselling.</p>
             <p>Marriage Counselling.</p>
-            <p>Divorce Counseling.</p>
-            <p>Crisis Counseling.</p>
+            <p>Divorce Counselling.</p>
+            <p>Crisis Counselling.</p>
             <p>Depression Counselling.</p>
             <p>Divorce and Sexual Dysfunction Counselling.</p>
           </div>

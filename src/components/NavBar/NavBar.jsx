@@ -19,7 +19,7 @@ const NavBar = ({second}) => {
       <div className='mainNav'>
       <div className='logo'>
         <img src={logo} alt = 'logo' />
-        <p className='NavText'>Holistic Counseling Consult</p>
+        <p className='NavText'>Holistic Counselling Consult</p>
       </div>
       <div className='navBar-details'>
         <ul>

@@ -30,7 +30,7 @@ const Services = () => {
           <p>Continuing Professional.</p>
           <p>Development CPD Courses.</p>
           <p>Year Certificate in marriage and Counselling.</p>
-          <p>Two-Year Diploma in Marriage And Family Counseling.</p>
+          <p>Two-Year Diploma in Marriage And Family Counselling.</p>
            </div>
         </div>
     </div>

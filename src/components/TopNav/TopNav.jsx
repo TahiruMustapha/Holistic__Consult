@@ -15,11 +15,11 @@ const topNav = () => {
         </li>
         <li>
             <FaGlobe className='nav-icons'/>
-            <p>P.O. BOX OS 2345, Dansoman - Accra</p>
+            <p>P.O. BOX DS 2345, Dansoman - Accra</p>
         </li>
         <li>
             <FaClock className='nav-icons'/>
-            <p>We Are Open: Monday - Saturday: 9am - 8pm, Sunday 3am - 9pm</p>
+            <p>We Are Open: Monday - Saturday: 9am - 8pm, Sunday 3pm - 9pm</p>
         </li>
       </ul>
     </div>
